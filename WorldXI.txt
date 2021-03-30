@@ -2,3 +2,7 @@ LB: Jordi Alba
 CB: Virgil Van Djik
 CB: Raphael Varane
 RB: Jaeo Cancelo
+
+CDM:Sergio Biscuit
+CM: Kevin De Bryune
+CM: Mateo Kovacic
