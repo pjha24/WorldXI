@@ -1,5 +1,5 @@
 LB: Jordi Alba
-CB: Virgil Van Djik
+CB: Ruben Dias
 CB: Raphael Varane
 RB: Jaeo Cancelo
 
