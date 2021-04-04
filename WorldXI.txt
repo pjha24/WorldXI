@@ -3,9 +3,9 @@ CB: Ruben Dias
 CB: Raphael Varane
 RB: Jaeo Cancelo
 
-CDM:Sergio Biscuit
+CDM:Ngolo Kante
 CM: Kevin De Bryune
-CM: Mateo Kovacic
+CM: Ikay Gundogan
 
 LW: Kylian Mbappe
 RW: Mo Salah
